@@ -1,1 +1,2 @@
 # intro-checkpoint
+Lina Sacchi
